@@ -1,0 +1,6 @@
+{
+  "name": "Lead & Business Audit Hub",
+  "description": "An intelligent workspace to scan, find willing-to-pay clients with verified contacts, generate high-quality, professional zero-markup pitches, organize followups, and perform comprehensive, independent business audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
